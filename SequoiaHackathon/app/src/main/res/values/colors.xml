@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="ul_brand_brown" type="color">#bb5d1d</item>
+    <item name="ul_brand_gray" type="color">#48484a</item>
+    <item name="primary_color" type="color">#ffffff</item>
+    <item name="primary_color_dark" type="color">#bdbdbd</item>
+    <item name="accent_color" type="color">#9e9e9e</item>
+    <item name="highlight_color" type="color">#dadada</item>
+    <item name="primary_text_color" type="color">@color/ul_brand_gray</item>
+    <item name="transparent" type="color">#00000000</item>
+    <item name="list_selector_color" type="color">#77f1f1f1</item>
+
+    <item name="light_sky" type="color">#32cbff</item>
+    <item name="light_yellow" type="color">#ffa500</item>
+
+    <item name="fb_color" type="color">#3b5998</item>
+    <item name="google_color" type="color">#dd4b39</item>
+    <item name="fb_color_pressed" type="color">#1b4396</item>
+    <item name="google_color_pressed" type="color">#db331f</item>
+
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="black" type="color">#000000</item>
+    <item name="blue" type="color">#FF33B5E5</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <item name="lightsilver" type="color">#EFEFEF</item>
+    <item name="darksilver" type="color">#333333</item>
+    <item name="silver" type="color">#888888</item>
+    <item name="lightgray" type="color">#bababa</item>
+    <item name="mediumgray" type="color">#ffe3e3e3</item>
+    <item name="darkgray" type="color">#808080</item>
+    <item name="ul_brown" type="color">#bb5d1d</item>
+    <item name="ul_brown_transparent" type="color">#e6bb5d1d</item>
+    <item name="ul_brown_selected" type="color">#AD4600</item>
+    <item name="ul_light_brown" type="color">#f7ece5</item>
+    <item name="ul_light_brown_selected" type="color">#F5E0D3</item>
+    <item name="ul_white_selected" type="color">#dadada</item>
+    <item name="ul_grey_selected" type="color">#666666</item>
+    <item name="ul_background_button" type="color">#f7ece5</item>
+    <item name="ul_view_all_button_background" type="color">#888888</item>
+    <item name="ul_sold_out_background" type="color">#bababa</item>
+    <item name="product_details_tab_bg" type="color">#efefef</item>
+    <item name="collapsible_block_title_bg" type="color">#efefef</item>
+    <item name="product_details_callus_button_bg" type="color">#f7ece5</item>
+    <item name="product_details_configureandbuy_button_bg" type="color">#bf6629</item>
+
+    <item name="product_list_background" type="color">#f2f2f2</item>
+    <item name="qnty_left_color" type="color">#f15422</item>
+
+    <item name="look_creator_variant_list_bg" type="color">#B3FFFFFF</item>
+    <item name="look_creator_popup_controls_bg" type="color">#B3FFFFFF</item>
+    <item name="look_creator_floating_button_bg" type="color">#B3CFCFCF</item>
+    <item name="look_creator_price_button_bg" type="color">#B348484A</item>
+    <item name="look_creator_buy_button_bg" type="color">#B3BB5D1D</item>
+    <item name="camera_control_panel_bg" type="color">#bf111111</item>
+    <item name="wishlist_background" type="color">#f2f2f2</item>
+    <item name="product_details_bg" type="color">#F9F9F9</item>
+    <item name="emi_delivery" type="color">#F2F4F4</item>
+    <item name="ul_grey" type="color">#999999</item>
+    <item name="swatch_title" type="color">#C2A480</item>
+    <item name="call_like_share" type="color">#ED6A48</item>
+    <item name="cod_install_delivery" type="color">#4D4A46</item>
+    <item name="price" type="color">#222222</item>
+    <item name="product_details_brown" type="color">#B96027</item>
+    <item name="swatch_brown" type="color">#2CB96027</item>
+    <item name="textview_image_border" type="color">#D8D8D8</item>
+    <item name="price_bar_transluscent" type="color">#11FFFFFF</item>
+
+</resources>
