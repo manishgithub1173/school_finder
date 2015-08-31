@@ -5,5 +5,5 @@ package com.hackathon.sequoia.sequoiahackathon.global;
  */
 public class UrlConstants {
 
-    public static final String BASE_URL = "";
+    public static final String BASE_URL = "https://a8716aa2.ngrok.io";
 }

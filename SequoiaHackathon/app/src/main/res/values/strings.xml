@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sequoia Hackathon</string>
+    <string name="app_name">School Finder</string>
 
     <string name="title_section1">HOME</string>
     <string name="title_section2">Section 1</string>
@@ -11,4 +11,14 @@
     <string name="action_example">Example action</string>
 
     <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_account">UserAccountActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_school_detail">SchoolDetailActivity</string>
+    <string name="desc">A Christian, English Medium School under the control and authority of the South India Regional Conference of the Methodist Church in India.
+
+The school is under the Chairmanship of Bishop Dr. Taranath Sagar We expect each parent/guardian to co-operate in our endeavor in training the child and developing him to become a good and responsible citizen of our country. Great care and emphasis is given to ensure that the following values are inculcated in the stu dent through every single activity of the school.</string>
 </resources>
